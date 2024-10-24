@@ -102,8 +102,65 @@ void timesTable(int x, int until) {
 }
 ////////////////////////////////////////////////////////////////////// Task 1 //////////////////////////////////////////////////////////////////////////
 
+////////////////////////////////////////////////////////////////////////////// Task 2 ///////////////////////////////////////////////////////////////////////////////
+
+int factorialWithoutPointer(int n) {
+	if (n <= 1 ) {
+		return 1;
+	}
+	return n * factorialWithoutPointer(n - 1);
+}
+
+int powerWithOutRecursion(int x, int y) {
+	if (y == 0) {
+		return 1;
+	}
+	return x * powerWithOutRecursion(x, y - 1);
+}
+
+void factorialWithPointer(int* n, int iterator = 1) {
+	if (*n <= 1) {
+		*n = iterator;
+		return;
+	}
+	*n -= 1;
+	factorialWithPointer(n, iterator * (*n + 1));
+}
+
+
+void powerWithPointer(int* base, int* exponent, int iterator = 1) {
+	if (*exponent == 0) {
+		*base = iterator;
+		return;
+	}
+	*exponent -= 1;
+	powerWithPointer(base, exponent, iterator * (*base));
+}
+////////////////////////////////////////////////////////////////////////////// Task 2 ///////////////////////////////////////////////////////////////////////////////
+
 int main()
 {
+
+	////////////////////////////////////////////////////////////////////////////// Task 2 ///////////////////////////////////////////////////////////////////////////////
+
+	cout << "recursion factorial without pointer : 5! = " << factorialWithoutPointer(5) << endl;
+
+	cout << "recursion factorial without power : 2^3 = " << powerWithOutRecursion(2, 3) << endl;
+
+
+
+
+
+	int numberForFactorial = 5;
+	factorialWithPointer(&numberForFactorial);
+	cout << "recursion factorial with pointer: 5! = " << numberForFactorial << endl;
+
+	int num1ForPower = 2;
+	int exponentForPower = 3;
+	powerWithPointer(&num1ForPower, &exponentForPower);
+	cout << "recursion power with pointer: 2^3 = " << num1ForPower << endl;
+	////////////////////////////////////////////////////////////////////////////// Task 2 ///////////////////////////////////////////////////////////////////////////////
+
 
 	////////////////////////////////////////////////////////////////////// Task3 //////////////////////////////////////////////////////////////////////////
 	Inventory inventory;
@@ -130,27 +187,3 @@ int main()
 	////////////////////////////////////////////////////////////////////// Task 1 //////////////////////////////////////////////////////////////////////////
 }
 
-
-
-
-
-//struct Gun
-//{
-//    int id;
-//    string name;
-//    double fireRate;
-//    int mag;
-//    bool automatic;
-//};
-//
-//struct Player
-//{
-//    int id;
-//    int hitPoint;
-//};
-//
-//struct Gernade {
-//    int id;
-//    double explosionRadius;
-//    string type;
-//};
