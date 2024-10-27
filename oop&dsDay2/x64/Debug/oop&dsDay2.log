@@ -1,2 +1,5 @@
 ﻿  oop&dsDay2.cpp
-  oop&dsDay2.vcxproj -> C:\Users\omarg\source\repos\oop&dsDay2\x64\Debug\oop&dsDay2.exe
+C:\Users\omarg\OneDrive\Desktop\oopIti\oop&dsDay2.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\omarg\OneDrive\Desktop\oopIti\oop&dsDay2.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\omarg\OneDrive\Desktop\oopIti\oop&dsDay2.cpp(24,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  oop&dsDay2.vcxproj -> C:\Users\omarg\OneDrive\Desktop\oopIti\x64\Debug\oop&dsDay2.exe
