@@ -175,10 +175,13 @@ int main() {
 
         studentQueue.enqueue(new Student{ "tantawy" });
         studentQueue.display();
+
         studentQueue.enqueue(new Student{ "Ghandy" }, 1);
         studentQueue.display();
+
         studentQueue.enqueue(new Student{ "mohamed" }, 1);
         studentQueue.display();
+
         studentQueue.enqueue(new Student{ "ehab" }, 2);
 
         studentQueue.display();
