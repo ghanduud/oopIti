@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|C:\\USERS\\OMARG\\ONEDRIVE\\DESKTOP\\OOPITI\\HEADERS\\COMPLEXNUMBER.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|solutionrelative:HEADERS\\COMPLEXNUMBER.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|C:\\USERS\\OMARG\\ONEDRIVE\\DESKTOP\\OOPITI\\HEADERCPP\\COMPLEXNUMBER.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|solutionrelative:HEADERCPP\\COMPLEXNUMBER.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\oop_dsDay2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|solutionrelative:oop_dsDay2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 300,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,21 +41,47 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\headerCpp\\ComplexNumber.cpp",
+              "RelativeDocumentMoniker": "headerCpp\\ComplexNumber.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\headerCpp\\ComplexNumber.cpp",
+              "RelativeToolTip": "headerCpp\\ComplexNumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T12:30:24.189Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ComplexNumber.hpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\headers\\ComplexNumber.hpp",
+              "RelativeDocumentMoniker": "headers\\ComplexNumber.hpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\headers\\ComplexNumber.hpp",
+              "RelativeToolTip": "headers\\ComplexNumber.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T12:24:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "oop_dsDay2.cpp",
               "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\oop_dsDay2.cpp",
               "RelativeDocumentMoniker": "oop_dsDay2.cpp",
               "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\oop_dsDay2.cpp",
               "RelativeToolTip": "oop_dsDay2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-24T07:09:41.748Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
