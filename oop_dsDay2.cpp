@@ -80,7 +80,7 @@ int main() {
     int choice;
 
     while (true) {
-        std::cout << "Please choose 1 for the first challenge, 2 for the second, 3 to play the game, or any other number to exit: ";
+        std::cout << "Please choose 1 for the first challenge, 2 for the second, or any other number to exit: ";
         std::cin >> choice;
 
         if (choice == 1) {
