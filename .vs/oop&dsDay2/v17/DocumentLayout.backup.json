@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omarg\\OneDrive\\Desktop\\oop\u0026dsDay2\\",
+  "WorkspaceRootPath": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\oop\u0026dsDay2\\oop\u0026dsDay2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|solutionrelative:oop\u0026dsDay2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\oop_dsDay2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D742E2FD-F13B-4E60-8A17-DFB504CAE7C0}|oop\u0026dsDay2.vcxproj|solutionrelative:oop_dsDay2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,11 +35,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "oop\u0026dsDay2.cpp",
-              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\oop\u0026dsDay2\\oop\u0026dsDay2.cpp",
-              "RelativeDocumentMoniker": "oop\u0026dsDay2.cpp",
-              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\oop\u0026dsDay2\\oop\u0026dsDay2.cpp",
-              "RelativeToolTip": "oop\u0026dsDay2.cpp",
+              "Title": "oop_dsDay2.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\oop_dsDay2.cpp",
+              "RelativeDocumentMoniker": "oop_dsDay2.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\oopIti\\oop_dsDay2.cpp",
+              "RelativeToolTip": "oop_dsDay2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-24T07:09:41.748Z",
