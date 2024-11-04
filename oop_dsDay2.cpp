@@ -109,7 +109,7 @@ int main()
         std::cout << "4- square" << std::endl;
         std::cout << "5- get average now" << std::endl;
         std::cout << "6- get number of shapes you entered" << std::endl;
-        std::cout << "7- exite" << std::endl;
+        std::cout << "7- exit" << std::endl;
 
         std::cin >> choice;
 
@@ -150,6 +150,9 @@ int main()
         else if (choice == 6) {
             int size = GeometricShape::getSize(shapes);
             std::cout << "average of area of shapes entered: " << size << std::endl;
+        }
+        else {
+            std::cout << "Enter valid entry! " << std::endl;
         }
 
 
