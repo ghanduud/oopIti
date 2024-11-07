@@ -1,0 +1,76 @@
+﻿  main.cpp
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(24,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(25,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,42): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,42): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,42): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,42): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,27): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,27): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,27): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(33,27): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(59,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(60,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(83,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(91,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(93,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,53): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,53): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,53): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,53): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,42): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,42): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,42): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(109,42): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,58): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,58): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,58): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,58): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,47): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,47): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,47): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(120,47): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,59): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,59): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,59): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,59): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,48): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,48): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,48): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(131,48): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(155,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(159,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(209,25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(209,25): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(209,25): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(209,25): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(209,25): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(210,25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(210,25): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(210,25): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(210,25): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(210,25): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(229,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(292,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(292,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,69): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,69): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,69): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,69): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,58): warning C4244:         with
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,58): warning C4244:         [
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,58): warning C4244:             T=float
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(300,58): warning C4244:         ]
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(301,55): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\learnsfml\src\main.cpp(301,40): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  snake_game.vcxproj -> C:\Users\omarg\OneDrive\Desktop\learnsfml\bin\Release\snake_game.exe
